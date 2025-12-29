@@ -17,4 +17,5 @@ int main()
     cout << pi << endl;
     cout << dogrumu << endl;
     cout << "harf notu = " << NotOrtalamasıHarf << endl;
+    return 0;
 }
