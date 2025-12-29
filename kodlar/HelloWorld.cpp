@@ -4,4 +4,5 @@ int main()
 {
   cout << "Hello World \n";
   cout << "Merhaba Dunya \n";
+  return 0;
 }
